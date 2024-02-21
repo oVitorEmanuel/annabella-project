@@ -1,0 +1,41 @@
+body {
+    background-image: url(/imgs/fundo.png);
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #4B566A;
+    font-size: 18px;
+    font-weight: bolder;
+    margin: 0px 5px;
+
+}
+
+.wrapper-content {
+    width: 900px;
+}
+
+.main-nav {
+    background-color: #C5C5B2;
+    padding: 22px;
+}
+
+.main-content {
+    background-color: #E8E8D9;
+    padding: 10px;
+}
+
+.main-title {
+    font-size: 1.2em;
+    color: #828271;
+}
+
+.main-footer {
+    text-align: center;
+}
+
+.campaign-image {
+    border: 10px solid #C3C3A3;
+}
